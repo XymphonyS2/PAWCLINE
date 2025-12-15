@@ -4,8 +4,8 @@ Aplikasi manajemen hewan peliharaan dengan 3 role: Pemilik Hewan, Admin, dan Dok
 
 ## Teknologi
 
-Muhammad Hafiz Assyifa (2315061072)
-Mutiara Khairunnisa Z. (2315061060)
+- Muhammad Hafiz Assyifa (2315061072)
+- Mutiara Khairunnisa Z. (2315061060)
 
 ## Teknologi
 
